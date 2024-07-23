@@ -1,6 +1,7 @@
 # Authentication Utils - Kenned Ferreira
 ## Miniprojeto M4 - PDA
-A fim de facilitar a criação de PINs, senhas aleatórias e hashes de senhas, desenvolvi esta API como um utilitário de autenticação para sistemas mais simples. A API tem três rotas diferentes que realizam tarefas relacionadas à autenticação e segurança de dados.
+A fim de facilitar a criação de PINs, senhas aleatórias e hashes de senhas, desenvolvi esta API como um utilitário de autenticação para sistemas mais simples. A API tem três rotas diferentes que realizam tarefas relacionadas à autenticação e segurança de dados. <br>
+[Reaja ao meu post no linkedin 😎](https://www.linkedin.com/posts/kennedfer_github-kennedferauthenticantion-utils-miniprojeto-api-activity-7221537158988222464-SgRa?utm_source=share&utm_medium=member_desktop)
 
 # Como rodar?
 Com o repositório aberto execute o comando "npm i" e, em seguida, execute o comando "node server.js".
