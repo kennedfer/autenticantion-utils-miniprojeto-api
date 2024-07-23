@@ -3,7 +3,14 @@
 A fim de facilitar a criação de PINs, senhas aleatórias e hashes de senhas, desenvolvi esta API como um utilitário de autenticação para sistemas mais simples. A API tem três rotas diferentes que realizam tarefas relacionadas à autenticação e segurança de dados.
 
 # Como rodar?
-Com o repositório aberto
+Com o repositório aberto execute o comando "npm i" e, em seguida, execute o comando "node server.js".
+```
+npm i
+```
+```
+node server
+```
+Após a execução, você será capaz de testar e usar a api.
 
 ## Rota para Geração de PINs Aleatórios
 ### Rota: getRandomPin
